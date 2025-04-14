@@ -5,7 +5,7 @@ Department of Spatial Sciences, Faculty of Environmental Sciences, Czech Univers
 ORCID: https://orcid.org/0000-0003-1316-2546
 e-mail: gabriele.midolo [at] gmail [dot] com
 
-## Content description:
+## Description
 * **getRLI.function.R:** This code contains the function to calculate range shape (elongation) using Range Linearity Index (RLI).
     * Related references:
         * Graves, G. R. (1988). Linearity of Geographic Range and Its Possible Effect on the Population Structure of Andean Birds. *The Auk*, *105*(1), 47–52. https://doi.org/10.1093/auk/105.1.47
