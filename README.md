@@ -2,8 +2,8 @@ Supplementary R codes for: Midolo, G. (2024) Plant functional traits couple with
 
 ## Author:
 
-Gabriele Midolo<sup>1</sup>
-<sup>1</sup>: Department of Spatial Sciences, Faculty of Environmental Sciences, Czech University of Life Sciences Prague, Praha-Suchdol, Czech Republic
+Gabriele Midolo
+Department of Spatial Sciences, Faculty of Environmental Sciences, Czech University of Life Sciences Prague, Praha-Suchdol, Czech Republic
 ORCID: https://orcid.org/0000-0003-1316-2546
 e-mail: gabriele.midolo [at] gmail [dot] com
 
